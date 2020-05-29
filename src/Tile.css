@@ -1,0 +1,11 @@
+.tile-size{
+    height:100px;
+    width:100px;
+}
+
+@media only screen and (max-width: 600px){
+    .tile-size{
+        height: 50px;
+        width: 50px;
+    }
+}
